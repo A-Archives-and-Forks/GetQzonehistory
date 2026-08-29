@@ -1,5 +1,6 @@
 # GetQzonehistory(获取qq发布的历史说说)
-[**QzoneArchive(原GetQzonehistory)**](https://github.com/Gaoshu705/QzoneArchive)
+
+新版本已更新，旧版本不再可用，移步[**QzoneArchive**](https://github.com/Gaoshu705/QzoneArchive)
 
 [**网盘下载地址**](https://pan.quark.cn/s/69baf8c8aadc)
 
